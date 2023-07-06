@@ -1,0 +1,14 @@
+{
+    "name": "@vexflow-fonts/robotoslab",
+    "version": "1.0.0",
+    "description": "Roboto Slab",
+    "main": "index.css",
+    "publishConfig": {
+        "access": "public"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Google Inc.",
+    "license": "Apache-2.0"
+}

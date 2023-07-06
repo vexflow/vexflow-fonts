@@ -1,0 +1,15 @@
+{
+  "name": "@vexflow-fonts/gonvillesmufl",
+  "version": "1.0.0",
+  "description": "GonvilleSmufl",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "contributors": [
+    "Simon Tatham",
+    "Rodrigo J. Vilar de Linares"
+  ],
+  "license": "OFL-1.1"
+}

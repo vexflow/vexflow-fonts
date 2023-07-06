@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "Edwin";
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: local("Edwin"), url(edwin-roman.woff2) format("woff2");
+}
+
+@font-face {
+    font-family: "Edwin";
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+    src: local("Edwin"), url(edwin-bold.woff2) format("woff2");
+}
+
+@font-face {
+    font-family: "Edwin";
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+    src: local("Edwin"), url(edwin-italic.woff2) format("woff2");
+}
+
+@font-face {
+    font-family: "Edwin";
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+    src: local("Edwin"), url(edwin-bold-italic.woff2) format("woff2");
+}

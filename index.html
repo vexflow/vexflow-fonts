@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <!-- <link rel="stylesheet" href="academico/index.css" />
+        <link rel="stylesheet" href="bravura/index.css" /> -->
+        <link rel="stylesheet" href="petaluma/index.css" />
+        <link rel="stylesheet" href="petalumascript/index.css" />
+        <style>
+            body {
+                font-family: monospace;
+                font-size: 14px;
+            }
+
+            .text {
+                /* font-family: Academico, Impact; */
+                font-family: 'Petaluma Script', Impact;
+                font-size: 48px;
+            }
+
+            .music {
+                /* font-family: "Bravura", Academico, Impact; */
+                font-family: 'Petaluma', Impact;
+                font-size: 96px;
+            }
+
+            .label {
+                font-size: 20px;
+            }
+
+            td {
+                border: 1px solid gray;
+                border-collapse: separate;
+                border-spacing: 10px 5px;
+            }
+
+            .code {
+                margin: 30px 0px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Regular Text</h1>
+        <p class="text">This is displayed using the text font. The five boxing wizards jump quickly.</p>
+        <h1>Music Symbols</h1>
+        <a href="https://w3c.github.io/smufl/latest/index.html"></a>
+        <!-- 
+            0xE050,  # gClef
+            0xE062,  # fClef
+            0xE014,  # staff5Lines
+            0xE030,  # barlineSingle
+            0xE032,  # barlineFinal
+            0xE080,  # timeSig0
+            0xE081,  # timeSig1
+            0xE082,  # timeSig2
+            0xE083,  # timeSig3
+            0xE084,  # timeSig4
+            0xE08A,  # timeSigCommon
+            0xE08B,  # timeSigCutCommon
+            0xE1D2,  # noteWhole
+            0xE1D3,  # noteHalfUp
+            0xE1D4,  # noteHalfDown
+            0xE1D5,  # noteQuarterUp
+            0xE1D6,  # noteQuarterDown
+            0xE1D7,  # note8thUp
+            0xE1D8,  # note8thDown
+            0xE1D9,  # note16thUp
+            0xE1DA,  # note16thDown
+            0xE1DB,  # note32ndUp
+            0xE1DC,  # note32ndDown
+            0xE1DD,  # note64thUp
+            0xE1DE,  # note64thDown
+            0xE1DF,  # note128thUp
+            0xE1E0,  # note128thDown
+            0xE1E1,  # note256thUp
+            0xE1E2,  # note256thDown
+            0xE1E7,  # augmentationDot
+            0xE260,  # accidentalFlat
+            0xE261,  # accidentalNatural
+            0xE262,  # accidentalSharp
+            0xE263,  # accidentalDoubleSharp
+            0xE264,  # accidentalDoubleFlat
+        -->
+        <p class="music"></p>
+        <table class="music" cellpadding="20">
+            <tr>
+                <td>
+                    <div class="label">G Clef</div>
+                    <div class="code">&#xE050;</div>
+                </td>
+                <td>
+                    <div class="label">F Clef</div>
+                    <div class="code">&#xE062;</div>
+                </td>
+                <td>
+                    <div class="label">5-Lines Staff</div>
+                    <div class="code">&#xE014;</div>
+                </td>
+                <td>
+                    <div class="label">Single Barline</div>
+                    <div class="code">&#xE030;</div>
+                </td>
+                <td>
+                    <div class="label">Final Barline</div>
+                    <div class="code">&#xE032;</div>
+                </td>
+                <td>
+                    <div class="label">Time Signature 0</div>
+                    <div class="code">&#xE080;</div>
+                </td>
+                <td>
+                    <div class="label">Time Signature 1</div>
+                    <div class="code">&#xE081;</div>
+                </td>
+                <td>
+                    <div class="label">Time Signature 2</div>
+                    <div class="code">&#xE082;</div>
+                </td>
+                <td>
+                    <div class="label">Time Signature 3</div>
+                    <div class="code">&#xE083;</div>
+                </td>
+                <td>
+                    <div class="label">Time Signature 4</div>
+                    <div class="code">&#xE084;</div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div class="label">Common Time Signature</div>
+                    <div class="code">&#xE08A;</div>
+                </td>
+                <td>
+                    <div class="label">Cut Common Time Signature</div>
+                    <div class="code">&#xE08B;</div>
+                </td>
+                <td>
+                    <div class="label">Whole Note</div>
+                    <div class="code">&#xE1D2;</div>
+                </td>
+                <td>
+                    <div class="label">Half Note (Up)</div>
+                    <div class="code">&#xE1D3;</div>
+                </td>
+                <td>
+                    <div class="label">Half Note (Down)</div>
+                    <div class="code">&#xE1D4;</div>
+                </td>
+                <td>
+                    <div class="label">Quarter Note (Up)</div>
+                    <div class="code">&#xE1D5;</div>
+                </td>
+                <td>
+                    <div class="label">Quarter Note (Down)</div>
+                    <div class="code">&#xE1D6;</div>
+                </td>
+                <td>
+                    <div class="label">Eighth Note (Up)</div>
+                    <div class="code">&#xE1D7;</div>
+                </td>
+                <td>
+                    <div class="label">Eighth Note (Down)</div>
+                    <div class="code">&#xE1D8;</div>
+                </td>
+                <td>
+                    <div class="label">Sixteenth Note (Up)</div>
+                    <div class="code">&#xE1D9;</div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div class="label">Sixteenth Note (Down)</div>
+                    <div class="code">&#xE1DA;</div>
+                </td>
+                <td>
+                    <div class="label">Thirty-Second Note (Up)</div>
+                    <div class="code">&#xE1DB;</div>
+                </td>
+                <td>
+                    <div class="label">Thirty-Second Note (Down)</div>
+                    <div class="code">&#xE1DC;</div>
+                </td>
+                <td>
+                    <div class="label">Sixty-Fourth Note (Up)</div>
+                    <div class="code">&#xE1DD;</div>
+                </td>
+                <td>
+                    <div class="label">Sixty-Fourth Note (Down)</div>
+                    <div class="code">&#xE1DE;</div>
+                </td>
+                <td>
+                    <div class="label">128th Note (Up)</div>
+                    <div class="code">&#xE1DF;</div>
+                </td>
+                <td>
+                    <div class="label">128th Note (Down)</div>
+                    <div class="code">&#xE1E0;</div>
+                </td>
+                <td>
+                    <div class="label">256th Note (Up)</div>
+                    <div class="code">&#xE1E1;</div>
+                </td>
+                <td>
+                    <div class="label">256th Note (Down)</div>
+                    <div class="code">&#xE1E2;</div>
+                </td>
+                <td>
+                    <div class="label">Augmentation Dot</div>
+                    <div class="code">&#xE1E7;</div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div class="label">Flat</div>
+                    <div class="code">&#xE260;</div>
+                </td>
+                <td>
+                    <div class="label">Natural</div>
+                    <div class="code">&#xE261;</div>
+                </td>
+                <td>
+                    <div class="label">Sharp</div>
+                    <div class="code">&#xE262;</div>
+                </td>
+                <td>
+                    <div class="label">Double Sharp</div>
+                    <div class="code">&#xE263;</div>
+                </td>
+                <td>
+                    <div class="label">Double Flat</div>
+                    <div class="code">&#xE264;</div>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

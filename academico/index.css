@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Academico";
+    font-style: normal;
+    font-display: swap;
+    src: local("Academico"), url(academico.woff2) format("woff2");
+}
+
+@font-face {
+    font-family: "Academico";
+    font-style: normal;
+    font-display: swap;
+    font-weight: bold;
+    src: local("Academico"), url(academico-bold.woff2) format("woff2");
+}
