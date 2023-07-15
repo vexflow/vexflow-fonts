@@ -1,7 +1,7 @@
 @font-face {
-    font-family: 'Bravura Text';
+    font-family: "Bravura Text";
     font-style: normal;
-    font-display: swap;
+    font-display: block;
     font-weight: 400;
-    src: url(bravuratext.woff2) format('woff2');
+    src: local("Bravura Text"), url(bravuratext.woff2) format("woff2");
 }

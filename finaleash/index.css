@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "Finale Ash";
+    font-style: normal;
+    font-display: block;
+    font-weight: 400;
+    src: local("Finale Ash"), url(finaleash.woff2) format("woff2");
+}

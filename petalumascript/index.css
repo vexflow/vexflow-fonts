@@ -1,7 +1,7 @@
 @font-face {
-    font-family: 'Petaluma Script';
+    font-family: "Petaluma Script";
     font-style: normal;
     font-display: swap;
     font-weight: 400;
-    src: url(petalumascript.woff2) format('woff2');
+    src: local("Petaluma Script"), url(petalumascript.woff2) format("woff2");
 }

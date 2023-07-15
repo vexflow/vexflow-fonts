@@ -1,7 +1,7 @@
 @font-face {
-    font-family: 'GonvilleSmufl';
+    font-family: "GonvilleSmufl";
     font-style: normal;
-    font-display: swap;
+    font-display: block;
     font-weight: 400;
-    src: url(gonvillesmufl.woff2) format('woff2');
+    src: local("GonvilleSmufl"), url(gonvillesmufl.woff2) format("woff2");
 }

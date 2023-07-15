@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "Finale Maestro";
+    font-weight: 400;
+    font-style: normal;
+    font-display: block;
+    src: local("Finale Maestro"), url(finalemaestro.woff2) format("woff2");
+}

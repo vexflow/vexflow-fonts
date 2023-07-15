@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "Finale Broadway";
+    font-style: normal;
+    font-display: block;
+    font-weight: 400;
+    src: local("Finale Broadway"), url(finalebroadway.woff2) format("woff2");
+}

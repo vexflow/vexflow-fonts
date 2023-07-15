@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "Gootville Text";
+    font-style: normal;
+    font-display: block;
+    font-weight: 400;
+    src: local("Gootville Text"), url(gootvilletext.woff2) format("woff2");
+}

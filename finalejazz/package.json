@@ -1,7 +1,7 @@
 {
-    "name": "@vexflow-fonts/lelandtext",
-    "version": "1.0.1",
-    "description": "Leland Text",
+    "name": "@vexflow-fonts/finalejazz",
+    "version": "1.0.0",
+    "description": "Finale Jazz",
     "main": "index.css",
     "publishConfig": {
         "access": "public"
@@ -9,6 +9,6 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "MuseScore BVBA",
+    "author": "MakeMusic, Inc",
     "license": "OFL-1.1"
 }

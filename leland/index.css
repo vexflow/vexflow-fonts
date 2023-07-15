@@ -1,7 +1,7 @@
 @font-face {
-    font-family: 'Leland';
+    font-family: "Leland";
     font-style: normal;
-    font-display: swap;
+    font-display: block;
     font-weight: 400;
-    src: url(leland.woff2) format('woff2');
+    src: local("Leland"), url(leland.woff2) format("woff2");
 }

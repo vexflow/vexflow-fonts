@@ -1,7 +1,7 @@
 @font-face {
-    font-family: 'MuseJazz Text';
+    font-family: "MuseJazz Text";
     font-style: normal;
     font-display: swap;
     font-weight: 400;
-    src: url(musejazztext.woff2) format('woff2');
+    src: local("MuseJazz Text"), url(musejazztext.woff2) format("woff2");
 }

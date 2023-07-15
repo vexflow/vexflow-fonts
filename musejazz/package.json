@@ -1,12 +1,14 @@
 {
-  "name": "@vexflow-fonts/musejazz",
-  "version": "1.0.0",
-  "description": "MuseJazz",
-  "main": "index.css",
-  "publishConfig": {"access": "public"},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Abraham Lee",
-  "license": "OFL-1.1"
+    "name": "@vexflow-fonts/musejazz",
+    "version": "1.0.1",
+    "description": "MuseJazz",
+    "main": "index.css",
+    "publishConfig": {
+        "access": "public"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Abraham Lee",
+    "license": "OFL-1.1"
 }

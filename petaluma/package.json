@@ -1,9 +1,11 @@
 {
   "name": "@vexflow-fonts/petaluma",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Petaluma",
   "main": "index.css",
-  "publishConfig": {"access": "public"},
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
