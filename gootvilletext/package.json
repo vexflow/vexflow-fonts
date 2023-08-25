@@ -1,6 +1,6 @@
 {
     "name": "@vexflow-fonts/gootvilletext",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Gootville Text",
     "main": "index.css",
     "publishConfig": {
