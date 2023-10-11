@@ -1,19 +1,4 @@
-See: 
-https://makemusic.zendesk.com/hc/en-us/articles/1500013053461-MakeMusic-Fonts-and-Licensing-Information
-
-The license information was downloaded from: https://makemusic.zendesk.com/hc/en-us/article_attachments/4402710909975/OFL.txt
-
-The OFL.txt file is reproduced below:
-=====================================
-
-
-Copyright © 2021 MakeMusic, Inc. (https://www.makemusic.com/), with Reserved Font Name “Finale”.
-Copyright © 2021 MakeMusic, Inc. (https://www.makemusic.com/), with Reserved Font Name “Maestro”.
-Copyright © 2021 MakeMusic, Inc. (https://www.makemusic.com/), with Reserved Font Name “Broadway”.
-Copyright © 2021 MakeMusic, Inc. (https://www.makemusic.com/), with Reserved Font Name “Engraver”.
-Copyright © 2021 MakeMusic, Inc. (https://www.makemusic.com/), with Reserved Font Name “Jazz”.
-Copyright © 2021 MakeMusic, Inc. (https://www.makemusic.com/), with Reserved Font Name “Ash”.
-Copyright © 2021 MakeMusic, Inc. (https://www.makemusic.com/), with Reserved Font Name “Legacy”.
+Copyright (c) 2022, Florian Kretlow and Ben Byram-Wigfield, with Reserved Font Name "Nepomuk".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

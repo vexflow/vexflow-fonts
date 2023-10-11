@@ -1,0 +1,14 @@
+{
+    "name": "@vexflow-fonts/sebastian",
+    "version": "1.0.1",
+    "description": "Sebastian",
+    "main": "index.css",
+    "publishConfig": {
+        "access": "public"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "OFL-1.1"
+}

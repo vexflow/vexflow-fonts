@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "Finale Jazz Text";
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: local("Finale Jazz Text"), url(finalejazztext.woff2) format("woff2");
+}

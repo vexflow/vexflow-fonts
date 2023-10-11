@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "Leipzig";
+    font-style: normal;
+    font-display: block;
+    font-weight: 400;
+    src: local("Leipzig"), url(leipzig.woff2) format("woff2");
+}

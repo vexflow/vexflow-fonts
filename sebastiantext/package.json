@@ -1,0 +1,17 @@
+{
+    "name": "@vexflow-fonts/sebastiantext",
+    "version": "1.0.0",
+    "description": "Sebastian Text",
+    "main": "index.css",
+    "publishConfig": {
+        "access": "public"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "contributors": [
+        "Florian Kretlow",
+        "Ben Byram-Wigfield"
+    ],
+    "license": "OFL-1.1"
+}

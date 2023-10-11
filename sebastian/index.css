@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "Sebastian";
+    font-style: normal;
+    font-display: block;
+    font-weight: 400;
+    src: local("Sebastian"), url(sebastian.woff2) format("woff2");
+}
