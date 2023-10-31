@@ -1,6 +1,6 @@
 {
     "name": "@vexflow-fonts/gonville",
-    "version": "1.0.0-alpha.0",
+    "version": "1.0.0-alpha.1",
     "description": "Gonville",
     "main": "index.css",
     "publishConfig": {
@@ -10,7 +10,13 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": {
-        "name": "Simon Tatham"
+        "name": "Simon Tatham",
+        "email": "anakin@pobox.com"
+    },
+    "homepage": "https://www.chiark.greenend.org.uk/~sgtatham/gonville/",
+    "repository": {
+        "type": "git",
+        "url": "git://git.tartarus.org/simon/gonville.git"
     },
     "license": "SEE LICENCE IN LICENCE.txt"
 }
