@@ -1,14 +1,14 @@
 {
-  "name": "@vexflow-fonts/bravuratext",
-  "version": "1.0.0",
-  "description": "Bravura Text",
-  "main": "index.css",
-  "publishConfig": {
-    "access": "public"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Steinberg Media Technologies GmbH",
-  "license": "OFL-1.1"
+    "name": "@vexflow-fonts/bravuratext",
+    "version": "1.0.1",
+    "description": "Bravura Text",
+    "main": "index.css",
+    "publishConfig": {
+        "access": "public"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Steinberg Media Technologies GmbH",
+    "license": "OFL-1.1"
 }

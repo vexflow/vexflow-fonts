@@ -1,6 +1,6 @@
 {
     "name": "@vexflow-fonts/finaleashtext",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Finale Ash Text",
     "main": "index.css",
     "publishConfig": {

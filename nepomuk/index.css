@@ -6,32 +6,12 @@
     src: local("Nepomuk"), url(nepomuk-regular.woff2) format("woff2");
 }
 
-/* regular + small caps */
-@font-face {
-    font-family: "Nepomuk";
-    font-weight: 400;
-    font-style: normal;
-    font-variant: small-caps;
-    font-display: swap;
-    src: local("Nepomuk"), url(nepomuk-regularsc.woff2) format("woff2");
-}
-
 @font-face {
     font-family: "Nepomuk";
     font-weight: bold;
     font-style: normal;
     font-display: swap;
     src: local("Nepomuk"), url(nepomuk-bold.woff2) format("woff2");
-}
-
-/* bold + small-caps */
-@font-face {
-    font-family: "Nepomuk";
-    font-weight: bold;
-    font-style: normal;
-    font-variant: small-caps;
-    font-display: swap;
-    src: local("Nepomuk"), url(nepomuk-boldsc.woff2) format("woff2");
 }
 
 @font-face {

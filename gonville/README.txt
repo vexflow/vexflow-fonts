@@ -1,4 +1,4 @@
-GonvilleSmufl 1.100
+Gonville 1.100
 
 From: https://github.com/rvilarl/gonvillesmufl
 
